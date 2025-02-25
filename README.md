@@ -5,9 +5,9 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **QML for water quality and Orani Agro**
+- 🔭 I’m currently working on **Attendance System**
 
-- 🌱 I’m currently learning **quantum programming and fuluter**
+- 🌱 I’m currently learning **quantum programming and Flutter**
 
 - 💬 Ask me about **android , kotlin , problem solving and algorithm**
 
