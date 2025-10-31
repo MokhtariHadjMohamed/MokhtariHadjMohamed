@@ -1,12 +1,9 @@
 
 <h1 align="center">Hey 👋, I'm Mokhtari Hadj Mohamed</h1>
-<h3 align="center">Software Engineer 🖥
-Project Manager 👷🏻
+<h3 align="center">Software Engineer 🖥 <br>
+Project Manager 👷🏻 <br>
 Android & Cross-Platform Mobile Developer (Android, Flutter) 🧑🏻‍💻
 </h3>
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 - 🔭 I’m currently working on **Machroui**
 
