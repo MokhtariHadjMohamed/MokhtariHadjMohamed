@@ -7,7 +7,7 @@ Android & Cross-Platform Mobile Developer (Android, Flutter) 🧑🏻‍💻
 
 - 🔭 I’m currently working on **Machroui**
 
-- 🌱 I’m currently learning **Qt/Qml using Python wiht PySide6**
+- 🌱 I’m currently learning **Ios Developing**
 
 - 💬 Ask me about **Android , Kotlin , Flutter**
 
